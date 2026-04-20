@@ -27,7 +27,7 @@ This experience strengthened my ability to combine data insights with marketing 
 
 ## Projects
 
-### 🔹 Employee Attrition Prediction
+### Employee Attrition Prediction
 
 * Built machine learning models (Logistic Regression, Decision Tree, Random Forest)
 * Applied EDA, statistical testing, and SMOTE for data balancing
@@ -35,14 +35,14 @@ This experience strengthened my ability to combine data insights with marketing 
 * Identified key drivers like overtime, income, and job satisfaction
 
 
-### 🔹 E-commerce Sales & Customer Insights Dashboard
+### E-commerce Sales & Customer Insights Dashboard
 
 * Developed an interactive **Power BI dashboard** with 100K+ records
 * Analyzed revenue trends, top categories, and delivery delays
 * Identified key insights such as ₹1.35Cr revenue trends and top-performing segments
 
 
-### 🔹 Employee & Project Data Analysis (Python)
+### Employee & Project Data Analysis (Python)
 
 * Built a Python-based workflow using pandas for data cleaning and transformation
 * Automated 10+ operations including bonus allocation and cost aggregation
