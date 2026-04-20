@@ -4,7 +4,6 @@ I’m a Business Analytics graduate with a strong interest in leveraging data to
 
 I focus on building practical, impact-driven solutions and continuously improving my analytical and technical skill set.
 
----
 
 ## Education
 
@@ -13,7 +12,6 @@ I focus on building practical, impact-driven solutions and continuously improvin
 
 My academic journey has helped me build a solid foundation in data analysis, statistics, and business decision-making. 
 
----
 
 ## Internship Experience
 
@@ -26,7 +24,6 @@ My academic journey has helped me build a solid foundation in data analysis, sta
 
 This experience strengthened my ability to combine data insights with marketing strategies. 
 
----
 
 ## Projects
 
@@ -37,7 +34,6 @@ This experience strengthened my ability to combine data insights with marketing 
 * Achieved **94.1% accuracy (AUC: 0.979)**
 * Identified key drivers like overtime, income, and job satisfaction
 
----
 
 ### 🔹 E-commerce Sales & Customer Insights Dashboard
 
@@ -45,7 +41,6 @@ This experience strengthened my ability to combine data insights with marketing 
 * Analyzed revenue trends, top categories, and delivery delays
 * Identified key insights such as ₹1.35Cr revenue trends and top-performing segments
 
----
 
 ### 🔹 Employee & Project Data Analysis (Python)
 
@@ -55,8 +50,6 @@ This experience strengthened my ability to combine data insights with marketing 
 
 These projects reflect my ability to apply analytics techniques to generate meaningful business insights. 
 
----
-
 ## Skills
 
 * **Tools & Technologies:** Python, SQL, Excel, Power BI
@@ -64,7 +57,6 @@ These projects reflect my ability to apply analytics techniques to generate mean
 * **Techniques:** EDA, Statistical Analysis, Machine Learning
 * **Strengths:** Problem Solving, Business Understanding, Analytical Thinking
 
----
 
 ## Career Focus
 
